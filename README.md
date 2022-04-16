@@ -1,5 +1,5 @@
 # LDA-DP
-An Unsupervised and Automatic Spike Sorting Method based on the Joint Optimization of Linear Discrimination Analysis and Density Peaks. `Run_Sample.m` is a sample of the sorting.
+An Unsupervised and Automatic Spike Sorting Method based on the Joint Optimization of Linear Discrimination Analysis and Density Peaks. `Run_Sample.m` is an example of  use.
 
 ## How to Use
 Run `ldadp_fuc.m` to do the sorting.
