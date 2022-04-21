@@ -15,4 +15,7 @@ Run `ldadp_fuc.m` to do the sorting.
   <br>**Idx_sort**: the cluster label
   <br>**Idx_center**: the centers of each clusters
   
-  
+ ## References
+ ### How to cite
+ A Robust Spike Sorting Method based on the Joint Optimization of Linear Discrimination Analysis and Density Peaks. Yiwei Zhang, Jiawei Han, Tengjun Liu, Zelan Yang, Weidong Chen, Shaomin Zhang. BioRxiv 2022.02.10.479846; doi: https://doi.org/10.1101/2022.02.10.479846
+ 
