@@ -1,7 +1,10 @@
 # LDA-DP
 An Unsupervised and Automatic Spike Sorting Method based on the Joint Optimization of Linear Discrimination Analysis and Density Peaks. `Run_Sample.m` is an example of  use.
 
-## How to Use
+## How to detect
+Run 'DetectWave.m' to detect spikes from raw data.
+
+## How to sort
 Run `ldadp_fuc.m` to do the sorting.
 
 ### Input
